@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.mainForm {
+  width: 1000px;
+  background-color: azure;
+  display: grid;
+  justify-content: center;
+  /* text-align: center; */
+  margin: 0 auto;
+  padding: 0;
+  padding-top: 10px;
+}
+
+.input {
+  width: 250px;
+  height: 35px;
+  font-size: 16px;
+  margin: 10px 0px;
+  padding-left: 10px;
+}
+.label {
+  font-size: 25px;
+}
+/* .Radio {
+    transform: scale(1.5);
+    margin-right: 30px;
+} */
+
+button {
+  font-size: 20px;
+  padding: 3px 15px;
+  margin-top: 15px;
+}
+
+/* ----------------------------- */
+.subCloth {
+  background: rebeccapurple;
+  color: white;
+  margin: 13px;
+}
+.subCloth th {
+  padding: 5px 10px;
+}
+table {
+  border: 2px solid;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
